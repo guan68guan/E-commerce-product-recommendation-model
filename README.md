@@ -1,0 +1,2 @@
+# E-commerce product recommendation model
+ Developed an ML model to recommend similar apparel products in e-commerce using product description and images. The model can be used by e-commerce companies to suggest similar products to users and therefore improving their online shopping experience.  Outcome : Visual features based product similarity model gave brilliant product recommendation. This result outperforms the result of all other models (Bag of Words based similarity, TF-IDF based model, IDF based model, TF-IDF weighted Word2Vec model, IDF weighted Word2Vec model)
